@@ -4,16 +4,15 @@
 # **Hello There! I'm Ariful Islam**  
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=arifulit&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arifulit&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-   <img src="https://nirzak-streak-stats.vercel.app?user=arifulit&theme=dark" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=arifulit&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
-  </br>
-
+</br>
 
 ## 🌟 **About Me**  
 
@@ -28,9 +27,9 @@ I have a keen eye for <strong>design and functionality</strong>, and I enjoy cre
 ### 🎯 **Quick Facts**  
 ✅ **✨ Creating bugs since:** 2024 🐛  
 ✅ **🎯 Goals:** Build web applications that make life easier  
-✅ **🎲 Fun Fact:** I love motorcycles 🏍️ and cameras 📸  
+✅ **🎲 Fun Fact:** I love motorcycles 🏍️ and cameras 📸
 
-
+---
 
 ## 🚀 **Tech Stack**  
 
@@ -76,4 +75,3 @@ I have a keen eye for <strong>design and functionality</strong>, and I enjoy cre
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-
