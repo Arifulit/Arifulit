@@ -1,18 +1,18 @@
 ![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/ariful-islam.jpg)
 
-# 👋🏽 **Hello There! I'm Ariful Islam**  
+###
+<h1 align="center">Hello There..👋🏽 I am Ariful Islam!</h1>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifulit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
+</div>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifulit&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
-</p>  
-
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=arifulit&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=arifulit&theme=dark" alt="GitHub Streak" />
   </a>
-</p>
-
-
+</div>   
 
 
 ## 🌟 **About Me**  
