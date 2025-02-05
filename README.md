@@ -1,6 +1,7 @@
 ![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/ariful-islam.jpg)
+</br>
 
-# 👋🏽 **Hello There! I'm Ariful Islam**  
+# **Hello There! I'm Ariful Islam**  
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=arifulit&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
@@ -11,7 +12,7 @@
    <img src="https://nirzak-streak-stats.vercel.app?user=arifulit&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
-  
+  </br>
 
 
 ## 🌟 **About Me**  
@@ -63,7 +64,7 @@ I have a keen eye for <strong>design and functionality</strong>, and I enjoy cre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
 </div>
 
-
+</br>
 
 ## 🔗 **Connect With Me**  
 
