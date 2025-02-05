@@ -73,17 +73,14 @@ I have a keen eye for <strong>design and functionality</strong>, and I enjoy cre
 
 
 
-<h2 align="center">Connect with me</h2>
+## 🔗 **Connect With Me**  
 
-<br clear="both">
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ariful-islam15" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/arifuliit" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
+</p>
 
-###
