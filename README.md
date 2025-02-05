@@ -22,22 +22,23 @@
 </div>
 
 
-###
+## 🌟 **About Me**  
 
-<h2 align="center">About me</h2>
+<p align="left">
+I am a passionate <strong>Web Developer</strong> with expertise in <strong>JavaScript, React.js, Next.js, and Tailwind CSS</strong>. Nowadays, I primarily work with the <strong>Next.js framework</strong> to build full-stack applications. However, I am also comfortable developing backend solutions using <strong>Express.js and MongoDB</strong>.  
 
-###
+I have a keen eye for <strong>design and functionality</strong>, and I enjoy creating seamless web applications. I don’t know everything, but each day is an opportunity to learn something new and improve my skills.
+</p>
 
-<p align="left">I am a Web Developer with expertise in JavaScript, React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with Next.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose, TypeScript, and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
+---
 
-###
+### 🎯 **Quick Facts**  
+✅ **✨ Creating bugs since:** 2024 🐛  
+✅ **🎯 Goals:** Build web applications that make life easier  
+✅ **🎲 Fun Fact:** I love motorcycles 🏍️ and cameras 📸  
 
-<h5 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Postgresql<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: I love motorcycles and cameras</h5>
 
-###
-<h2 align="center">I code with</h2>
 
-###
 ## 🚀 **Tech Stack**  
 
 <div align="center">
