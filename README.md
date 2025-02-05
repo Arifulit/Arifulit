@@ -1,7 +1,8 @@
 ![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/ariful-islam.jpg)
 </br>
 
-# **Hello There! I'm Ariful Islam**  
+# **Hello There..👋🏽  I'm Ariful Islam**  
+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifulit&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
