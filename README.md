@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io
+![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/ariful-islam.jpg)
+
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
