@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hello There..👋🏽 I am Nazmul Hussain!</h1>
+<h1 align="center">Hello There..👋🏽 I am Ariful Islam!</h1>
 
 ###
 
@@ -25,11 +25,11 @@
 
 ###
 
-<p align="left">I am a Web Developer with expertise in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with Next.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose, TypeScript, and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
+<p align="left">I am a Web Developer with expertise in JavaScript, React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with Next.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose, TypeScript, and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Postgresql<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: I love motorcycles and cameras</h5>
+<h5 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Postgresql<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: I love motorcycles and cameras</h5>
 
 ###
 
@@ -68,10 +68,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nazmul-hussain-utchchash/" target="_blank">
+  <a href="https://www.linkedin.com/in/ariful-islam15" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/nazzmul.hussain.utchchash" target="_blank">
+  <a href="https://www.facebook.com/arifuliit" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
