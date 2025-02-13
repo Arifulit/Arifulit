@@ -1,4 +1,5 @@
-![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/ariful-islam.jpg)
+![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/github-banner.png)
+
 </br>
 
 # **Hello There..👋🏽  I'm Ariful Islam**  
