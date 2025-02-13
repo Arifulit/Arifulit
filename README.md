@@ -1,4 +1,4 @@
-![Ariful Islam](https://i.ibb.co/Nnm8BQSz/github-banner.png)
+![Ariful Islam](https://raw.githubusercontent.com/Arifulit/Arifulit/main/ariful-islam.jpg)
 
 
 </br>
